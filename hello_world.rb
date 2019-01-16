@@ -4,3 +4,7 @@ def say_hi(name="Hank")
 end
 
 say_hi "John"
+
+# OUTPUT:
+#
+# Hello, John
